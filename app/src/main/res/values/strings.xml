@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticeLink</string>
+    <string name="button_hit">Get Data From Url</string>
+    <string name="tv_id">id</string>
+    <string name="tv_first_name">first_name</string>
+    <string name="tv_last_name">last_name</string>
+    <string name="tv_email">email</string>
+    <string name="tv_mobile">mobile</string>
+    <string name="tv_password">password</string>
+    <string name="tv_created_at">created_at</string>
+    <string name="tv_updated_at">updated_at</string>
+    <string name="tv_url">url</string>
+</resources>
